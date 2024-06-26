@@ -1,0 +1,8 @@
+# env_vars.sh
+#Formato de fechas AAAA-MM-DD ¡¡¡ES IMPORTANTE QUE LA FECHA NO EMPIECE (DATE_FROM) EN UN DIA QUE NO HAY BORME!!!
+export DATE_FROM="2024-01-02"
+export DATE_TO="2024-06-25"
+export DIRECTORY='C:/Users/jorge/OneDrive/Escritorio/autoborme/downloads/'
+export SECCION='A'
+# Valores: TODAS (Toda España), EUSKADI (EUSKADI), EUS_ALREDEDORES (EUSKADI, NAVARRA, LA RIOJA, CANTABRIA, BURGOS)
+export PROVINCIA='EUS_ALREDEDORES'

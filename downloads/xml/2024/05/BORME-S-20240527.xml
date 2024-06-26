@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sumario>
+  <meta>
+    <pub>BORME</pub>
+    <anno>2024</anno>
+    <fecha>27/05/2024</fecha>
+    <fechaInv>2024/05/27</fechaInv>
+    <fechaAnt>24/05/2024</fechaAnt>
+    <fechaAntAnt>23/05/2024</fechaAntAnt>
+    <fechaSig>28/05/2024</fechaSig>
+    <fechaPub>lunes 27 de mayo de 2024</fechaPub>
+    <pubDate>Mon, 27 May 2024 00:00:00 +0200</pubDate>
+  </meta>
+  <diario nbo="100">
+    <sumario_nbo id="BORME-S-2024-100">
+      <urlPdf szBytes="212268" szKBytes="207">/borme/dias/2024/05/27/pdfs/BORME-S-2024-100.pdf</urlPdf>
+    </sumario_nbo>
+    <seccion num="A" nombre="SECCIÓN PRIMERA. Empresarios">
+      <emisor nombre="Actos inscritos" etq="a1">
+        <item id="BORME-A-2024-100-02">
+          <titulo>ALBACETE</titulo>
+          <urlPdf szBytes="131044" szKBytes="128" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-02.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-03">
+          <titulo>ALICANTE/ALACANT</titulo>
+          <urlPdf szBytes="233435" szKBytes="228" numPag="12">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-03.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-04">
+          <titulo>ALMERÍA</titulo>
+          <urlPdf szBytes="129740" szKBytes="127" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-04.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-07">
+          <titulo>ILLES BALEARS</titulo>
+          <urlPdf szBytes="194957" szKBytes="190" numPag="8">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-07.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-08">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="217058" szKBytes="212" numPag="11">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-08.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-09">
+          <titulo>BURGOS</titulo>
+          <urlPdf szBytes="127088" szKBytes="124" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-09.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-12">
+          <titulo>CASTELLÓN/CASTELLÓ</titulo>
+          <urlPdf szBytes="125883" szKBytes="123" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-12.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-17">
+          <titulo>GIRONA</titulo>
+          <urlPdf szBytes="138158" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-17.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-18">
+          <titulo>GRANADA</titulo>
+          <urlPdf szBytes="139628" szKBytes="136" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-18.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-19">
+          <titulo>GUADALAJARA</titulo>
+          <urlPdf szBytes="147796" szKBytes="144" numPag="3">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-19.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-23">
+          <titulo>JAÉN</titulo>
+          <urlPdf szBytes="128384" szKBytes="125" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-23.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-24">
+          <titulo>LEÓN</titulo>
+          <urlPdf szBytes="136773" szKBytes="134" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-24.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-26">
+          <titulo>LA RIOJA</titulo>
+          <urlPdf szBytes="159648" szKBytes="156" numPag="4">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-26.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-28">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="562548" szKBytes="549" numPag="46">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-28.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-29">
+          <titulo>MÁLAGA</titulo>
+          <urlPdf szBytes="201587" szKBytes="197" numPag="9">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-29.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-30">
+          <titulo>MURCIA</titulo>
+          <urlPdf szBytes="134859" szKBytes="132" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-30.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-33">
+          <titulo>ASTURIAS</titulo>
+          <urlPdf szBytes="130542" szKBytes="127" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-33.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-35">
+          <titulo>LAS PALMAS</titulo>
+          <urlPdf szBytes="137422" szKBytes="134" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-35.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-36">
+          <titulo>PONTEVEDRA</titulo>
+          <urlPdf szBytes="149941" szKBytes="146" numPag="3">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-36.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-38">
+          <titulo>SANTA CRUZ DE TENERIFE</titulo>
+          <urlPdf szBytes="126591" szKBytes="124" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-38.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-40">
+          <titulo>SEGOVIA</titulo>
+          <urlPdf szBytes="129119" szKBytes="126" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-40.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-41">
+          <titulo>SEVILLA</titulo>
+          <urlPdf szBytes="175339" szKBytes="171" numPag="6">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-41.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-45">
+          <titulo>TOLEDO</titulo>
+          <urlPdf szBytes="147341" szKBytes="144" numPag="3">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-45.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-46">
+          <titulo>VALENCIA/VALÈNCIA</titulo>
+          <urlPdf szBytes="243277" szKBytes="238" numPag="13">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-46.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-47">
+          <titulo>VALLADOLID</titulo>
+          <urlPdf szBytes="135906" szKBytes="133" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-47.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-49">
+          <titulo>ZAMORA</titulo>
+          <urlPdf szBytes="134157" szKBytes="131" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-49.pdf</urlPdf>
+        </item>
+        <item id="BORME-A-2024-100-99">
+          <titulo>ÍNDICE ALFABÉTICO DE SOCIEDADES</titulo>
+          <urlPdf szBytes="974971" szKBytes="952" numPag="29">/borme/dias/2024/05/27/pdfs/BORME-A-2024-100-99.pdf</urlPdf>
+        </item>
+      </emisor>
+    </seccion>
+    <seccion num="B" nombre="SECCIÓN PRIMERA. Empresarios">
+      <emisor nombre="Otros actos publicados en el Registro Mercantil" etq="a2">
+        <item id="BORME-B-2024-100-03">
+          <titulo>ALICANTE/ALACANT</titulo>
+          <urlPdf szBytes="138500" szKBytes="135" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-B-2024-100-03.pdf</urlPdf>
+        </item>
+        <item id="BORME-B-2024-100-08">
+          <titulo>BARCELONA</titulo>
+          <urlPdf szBytes="138273" szKBytes="135" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-B-2024-100-08.pdf</urlPdf>
+        </item>
+        <item id="BORME-B-2024-100-28">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="138464" szKBytes="135" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-B-2024-100-28.pdf</urlPdf>
+        </item>
+        <item id="BORME-B-2024-100-33">
+          <titulo>ASTURIAS</titulo>
+          <urlPdf szBytes="138426" szKBytes="135" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-B-2024-100-33.pdf</urlPdf>
+        </item>
+      </emisor>
+    </seccion>
+    <seccion num="C" nombre="SECCIÓN SEGUNDA. Anuncios y avisos legales">
+      <emisor nombre="CONVOCATORIAS DE JUNTAS" etq="002">
+        <item id="BORME-C-2024-3007">
+          <titulo>ABRASIVOS DE ESPAÑA, S.A.</titulo>
+          <urlPdf szBytes="133824" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3007.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3007</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3007</urlXml>
+        </item>
+        <item id="BORME-C-2024-3008">
+          <titulo>AFERCAN, SOCIEDAD ANONIMA</titulo>
+          <urlPdf szBytes="132779" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3008.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3008</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3008</urlXml>
+        </item>
+        <item id="BORME-C-2024-3009">
+          <titulo>AGROFRESAS, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="134705" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3009.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3009</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3009</urlXml>
+        </item>
+        <item id="BORME-C-2024-3010">
+          <titulo>AIE PARQUE JOYEROS DE CÓRDOBA</titulo>
+          <urlPdf szBytes="135260" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3010.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3010</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3010</urlXml>
+        </item>
+        <item id="BORME-C-2024-3011">
+          <titulo>AMBULANCIAS CORDOBA, SOCIEDAD ANONIMA</titulo>
+          <urlPdf szBytes="134384" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3011.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3011</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3011</urlXml>
+        </item>
+        <item id="BORME-C-2024-3012">
+          <titulo>APART ILLA, S.A.</titulo>
+          <urlPdf szBytes="132288" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3012.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3012</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3012</urlXml>
+        </item>
+        <item id="BORME-C-2024-3013">
+          <titulo>ARENAL D&#8217;EN CASTELL, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="132983" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3013.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3013</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3013</urlXml>
+        </item>
+        <item id="BORME-C-2024-3014">
+          <titulo>ATOCHA PARK, S.A.</titulo>
+          <urlPdf szBytes="138740" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3014.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3014</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3014</urlXml>
+        </item>
+        <item id="BORME-C-2024-3015">
+          <titulo>BENIKAKTUS, S.A.</titulo>
+          <urlPdf szBytes="132600" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3015.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3015</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3015</urlXml>
+        </item>
+        <item id="BORME-C-2024-3016">
+          <titulo>BINI-PARK, S.A.</titulo>
+          <urlPdf szBytes="133512" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3016.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3016</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3016</urlXml>
+        </item>
+        <item id="BORME-C-2024-3017">
+          <titulo>BINI-PARK, S.A.</titulo>
+          <urlPdf szBytes="135475" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3017.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3017</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3017</urlXml>
+        </item>
+        <item id="BORME-C-2024-3018">
+          <titulo>BOLUDA LINES, S.A.</titulo>
+          <urlPdf szBytes="133405" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3018.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3018</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3018</urlXml>
+        </item>
+        <item id="BORME-C-2024-3019">
+          <titulo>BONALBA 2000, S.A.</titulo>
+          <urlPdf szBytes="133736" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3019.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3019</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3019</urlXml>
+        </item>
+        <item id="BORME-C-2024-3020">
+          <titulo>CAN SA PUNTA, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="133564" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3020.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3020</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3020</urlXml>
+        </item>
+        <item id="BORME-C-2024-3021">
+          <titulo>CASINO DE VILLAVICIOSA DE CÓRDOBA, S.A.</titulo>
+          <urlPdf szBytes="135039" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3021.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3021</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3021</urlXml>
+        </item>
+        <item id="BORME-C-2024-3022">
+          <titulo>CERAQUIMA, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="134546" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3022.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3022</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3022</urlXml>
+        </item>
+        <item id="BORME-C-2024-3023">
+          <titulo>CODAN S.A.</titulo>
+          <urlPdf szBytes="137699" szKBytes="134" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3023.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3023</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3023</urlXml>
+        </item>
+        <item id="BORME-C-2024-3024">
+          <titulo>COMPAÑÍA HOTELERA DE ALCÚDIA, S.A.</titulo>
+          <urlPdf szBytes="134547" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3024.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3024</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3024</urlXml>
+        </item>
+        <item id="BORME-C-2024-3025">
+          <titulo>COMPAÑÍA HOTELERA PLAYAS DE MURO, S.A.</titulo>
+          <urlPdf szBytes="134658" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3025.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3025</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3025</urlXml>
+        </item>
+        <item id="BORME-C-2024-3026">
+          <titulo>CONSTRUCCIONES MS, S.A.</titulo>
+          <urlPdf szBytes="132842" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3026.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3026</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3026</urlXml>
+        </item>
+        <item id="BORME-C-2024-3027">
+          <titulo>CONSTRUCCIONES NAVALES P. FREIRE S.A.</titulo>
+          <urlPdf szBytes="132722" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3027.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3027</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3027</urlXml>
+        </item>
+        <item id="BORME-C-2024-3028">
+          <titulo>CRISTALLERIES I SANITARIS FORN, S.A.</titulo>
+          <urlPdf szBytes="134449" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3028.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3028</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3028</urlXml>
+        </item>
+        <item id="BORME-C-2024-3029">
+          <titulo>DISCOTECAS VALENCIA, S.A.</titulo>
+          <urlPdf szBytes="134319" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3029.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3029</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3029</urlXml>
+        </item>
+        <item id="BORME-C-2024-3030">
+          <titulo>EDIFICACIONES CIMER S.A.</titulo>
+          <urlPdf szBytes="132193" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3030.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3030</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3030</urlXml>
+        </item>
+        <item id="BORME-C-2024-3031">
+          <titulo>ENERGÍA RIVEIRA, S.A.</titulo>
+          <urlPdf szBytes="132800" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3031.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3031</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3031</urlXml>
+        </item>
+        <item id="BORME-C-2024-3032">
+          <titulo>ENERGÍAS RENOVABLES MEDITERRÁNEAS, S.A.</titulo>
+          <urlPdf szBytes="132242" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3032.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3032</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3032</urlXml>
+        </item>
+        <item id="BORME-C-2024-3033">
+          <titulo>ENERGÍAS RENOVABLES MEDITERRÁNEAS, S.A.</titulo>
+          <urlPdf szBytes="139792" szKBytes="137" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3033.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3033</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3033</urlXml>
+        </item>
+        <item id="BORME-C-2024-3034">
+          <titulo>ENOVINTAGE INVERSIONES 22, S.A.</titulo>
+          <urlPdf szBytes="133280" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3034.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3034</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3034</urlXml>
+        </item>
+        <item id="BORME-C-2024-3035">
+          <titulo>ERGODESIGN, S.A.</titulo>
+          <urlPdf szBytes="133812" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3035.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3035</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3035</urlXml>
+        </item>
+        <item id="BORME-C-2024-3036">
+          <titulo>E.T.A.S.A. INTERNACIONAL, S.A.</titulo>
+          <urlPdf szBytes="133882" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3036.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3036</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3036</urlXml>
+        </item>
+        <item id="BORME-C-2024-3037">
+          <titulo>FINTUBO, S.A.</titulo>
+          <urlPdf szBytes="139005" szKBytes="136" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3037.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3037</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3037</urlXml>
+        </item>
+        <item id="BORME-C-2024-3038">
+          <titulo>FONT INTERNACIONAL, S.A.</titulo>
+          <urlPdf szBytes="140386" szKBytes="137" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3038.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3038</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3038</urlXml>
+        </item>
+        <item id="BORME-C-2024-3039">
+          <titulo>FRIGORÍFICOS DE RIVEIRA, S.A.</titulo>
+          <urlPdf szBytes="133196" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3039.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3039</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3039</urlXml>
+        </item>
+        <item id="BORME-C-2024-3040">
+          <titulo>FUNERARIA ACEBO, S.L.</titulo>
+          <urlPdf szBytes="133780" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3040.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3040</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3040</urlXml>
+        </item>
+        <item id="BORME-C-2024-3041">
+          <titulo>GONZÁLEZ DE LA SIERRA, S.A.</titulo>
+          <urlPdf szBytes="132889" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3041.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3041</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3041</urlXml>
+        </item>
+        <item id="BORME-C-2024-3042">
+          <titulo>GRAN CANAL, S.A.</titulo>
+          <urlPdf szBytes="133785" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3042.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3042</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3042</urlXml>
+        </item>
+        <item id="BORME-C-2024-3043">
+          <titulo>GREEN INVESTMENT MANAGEMENT S.A</titulo>
+          <urlPdf szBytes="133220" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3043.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3043</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3043</urlXml>
+        </item>
+        <item id="BORME-C-2024-3044">
+          <titulo>GRUP CATALANA, S.A.</titulo>
+          <urlPdf szBytes="132476" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3044.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3044</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3044</urlXml>
+        </item>
+        <item id="BORME-C-2024-3045">
+          <titulo>GRUPO PEREA, S.A.</titulo>
+          <urlPdf szBytes="133672" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3045.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3045</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3045</urlXml>
+        </item>
+        <item id="BORME-C-2024-3046">
+          <titulo>GUAYAQUIL S.A.</titulo>
+          <urlPdf szBytes="133277" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3046.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3046</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3046</urlXml>
+        </item>
+        <item id="BORME-C-2024-3047">
+          <titulo>HNOS. FRANCO GARCÍA, S.A.</titulo>
+          <urlPdf szBytes="133227" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3047.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3047</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3047</urlXml>
+        </item>
+        <item id="BORME-C-2024-3048">
+          <titulo>INDUSTRIAS FRIGORÍFICAS DEL LOURO, S.A.</titulo>
+          <urlPdf szBytes="133642" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3048.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3048</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3048</urlXml>
+        </item>
+        <item id="BORME-C-2024-3049">
+          <titulo>INM. SACLOSA, S.A.</titulo>
+          <urlPdf szBytes="133198" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3049.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3049</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3049</urlXml>
+        </item>
+        <item id="BORME-C-2024-3050">
+          <titulo>INMOBILIARIA DE LA TORRE S.A.</titulo>
+          <urlPdf szBytes="138317" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3050.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3050</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3050</urlXml>
+        </item>
+        <item id="BORME-C-2024-3051">
+          <titulo>INMOBILIARIA MASALE S.A.</titulo>
+          <urlPdf szBytes="132131" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3051.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3051</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3051</urlXml>
+        </item>
+        <item id="BORME-C-2024-3052">
+          <titulo>INMOBILIARIA POLIDEPORTIVA CASTELL DE SANT MIQUEL, S.A.</titulo>
+          <urlPdf szBytes="135256" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3052.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3052</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3052</urlXml>
+        </item>
+        <item id="BORME-C-2024-3053">
+          <titulo>INTEX, S.A.</titulo>
+          <urlPdf szBytes="132420" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3053.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3053</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3053</urlXml>
+        </item>
+        <item id="BORME-C-2024-3054">
+          <titulo>INVERPROM, S.A.</titulo>
+          <urlPdf szBytes="134033" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3054.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3054</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3054</urlXml>
+        </item>
+        <item id="BORME-C-2024-3055">
+          <titulo>JIMENEZ Y PIQUERAS, S.A.</titulo>
+          <urlPdf szBytes="138017" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3055.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3055</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3055</urlXml>
+        </item>
+        <item id="BORME-C-2024-3056">
+          <titulo>KAKTUS PLAYA S.A.</titulo>
+          <urlPdf szBytes="132486" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3056.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3056</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3056</urlXml>
+        </item>
+        <item id="BORME-C-2024-3057">
+          <titulo>KAPOLBA, S.A.</titulo>
+          <urlPdf szBytes="132724" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3057.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3057</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3057</urlXml>
+        </item>
+        <item id="BORME-C-2024-3058">
+          <titulo>KYRYA COLLECTION, S.A.</titulo>
+          <urlPdf szBytes="133769" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3058.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3058</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3058</urlXml>
+        </item>
+        <item id="BORME-C-2024-3059">
+          <titulo>LA LUZ, S.A. (TERMINAL DE CONTENEDORES)</titulo>
+          <urlPdf szBytes="133981" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3059.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3059</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3059</urlXml>
+        </item>
+        <item id="BORME-C-2024-3060">
+          <titulo>LALY OIL, S.L.</titulo>
+          <urlPdf szBytes="132913" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3060.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3060</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3060</urlXml>
+        </item>
+        <item id="BORME-C-2024-3061">
+          <titulo>LINECAR S.A.</titulo>
+          <urlPdf szBytes="133902" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3061.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3061</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3061</urlXml>
+        </item>
+        <item id="BORME-C-2024-3062">
+          <titulo>MADERAS ZUBIZARRETA, S.A.</titulo>
+          <urlPdf szBytes="134376" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3062.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3062</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3062</urlXml>
+        </item>
+        <item id="BORME-C-2024-3063">
+          <titulo>MANUTENCIÓN Y ENVASES PLASTICOS, S.A.</titulo>
+          <urlPdf szBytes="138261" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3063.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3063</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3063</urlXml>
+        </item>
+        <item id="BORME-C-2024-3064">
+          <titulo>MARINICE, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="133196" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3064.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3064</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3064</urlXml>
+        </item>
+        <item id="BORME-C-2024-3065">
+          <titulo>MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A.</titulo>
+          <urlPdf szBytes="137983" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3065.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3065</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3065</urlXml>
+        </item>
+        <item id="BORME-C-2024-3066">
+          <titulo>MOREJÓN, S.A.</titulo>
+          <urlPdf szBytes="133469" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3066.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3066</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3066</urlXml>
+        </item>
+        <item id="BORME-C-2024-3067">
+          <titulo>MORENO HUERTA S.A.</titulo>
+          <urlPdf szBytes="134051" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3067.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3067</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3067</urlXml>
+        </item>
+        <item id="BORME-C-2024-3068">
+          <titulo>MUELLES E INSTALACIONES PARA LA PESCA E INDUSTRIA, S.A. &#13;
+(M.E.I.P.I., S.A.)</titulo>
+          <urlPdf szBytes="135167" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3068.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3068</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3068</urlXml>
+        </item>
+        <item id="BORME-C-2024-3069">
+          <titulo>NOKIA SPAIN, S.A.</titulo>
+          <urlPdf szBytes="134344" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3069.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3069</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3069</urlXml>
+        </item>
+        <item id="BORME-C-2024-3070">
+          <titulo>PIEZAS Y RODAJES, S.A.</titulo>
+          <urlPdf szBytes="134347" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3070.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3070</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3070</urlXml>
+        </item>
+        <item id="BORME-C-2024-3071">
+          <titulo>PREMASOL, S.A.</titulo>
+          <urlPdf szBytes="134070" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3071.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3071</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3071</urlXml>
+        </item>
+        <item id="BORME-C-2024-3072">
+          <titulo>PUERTO COLON,S.A.</titulo>
+          <urlPdf szBytes="133811" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3072.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3072</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3072</urlXml>
+        </item>
+        <item id="BORME-C-2024-3073">
+          <titulo>REAL SOCIEDAD HÍPICA ESPAÑOLA CLUB DE CAMPO, S.A.</titulo>
+          <urlPdf szBytes="139001" szKBytes="136" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3073.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3073</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3073</urlXml>
+        </item>
+        <item id="BORME-C-2024-3074">
+          <titulo>RECURSOS HIDRÁULICOS, S.A.</titulo>
+          <urlPdf szBytes="134912" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3074.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3074</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3074</urlXml>
+        </item>
+        <item id="BORME-C-2024-3075">
+          <titulo>RUVICAL IBERICA DE EDIFICACIONES, S.A.</titulo>
+          <urlPdf szBytes="133196" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3075.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3075</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3075</urlXml>
+        </item>
+        <item id="BORME-C-2024-3076">
+          <titulo>SALTAGUA, S.A.</titulo>
+          <urlPdf szBytes="132726" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3076.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3076</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3076</urlXml>
+        </item>
+        <item id="BORME-C-2024-3077">
+          <titulo>SAMAIPATA SA</titulo>
+          <urlPdf szBytes="132493" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3077.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3077</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3077</urlXml>
+        </item>
+        <item id="BORME-C-2024-3078">
+          <titulo>SOLUCIONES ENERGETICAS, S. A.</titulo>
+          <urlPdf szBytes="132793" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3078.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3078</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3078</urlXml>
+        </item>
+        <item id="BORME-C-2024-3079">
+          <titulo>SPIN, S.A.</titulo>
+          <urlPdf szBytes="134722" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3079.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3079</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3079</urlXml>
+        </item>
+        <item id="BORME-C-2024-3080">
+          <titulo>TACORONTE S.A</titulo>
+          <urlPdf szBytes="133483" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3080.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3080</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3080</urlXml>
+        </item>
+        <item id="BORME-C-2024-3081">
+          <titulo>VACESCU, S.A.</titulo>
+          <urlPdf szBytes="133420" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3081.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3081</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3081</urlXml>
+        </item>
+        <item id="BORME-C-2024-3082">
+          <titulo>WESALLA, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="134695" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3082.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3082</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3082</urlXml>
+        </item>
+      </emisor>
+      <emisor nombre="FUSIONES Y ABSORCIONES DE EMPRESAS" etq="003">
+        <item id="BORME-C-2024-3083">
+          <titulo>ALTEN SOLUCIONES PRODUCTOS AUDITORIA E INGENIERÍA, S.A.U. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+AYESA AIR CONTROL INGENIERÍA AERONAÚTICA, S.L.U. &#13;
+CLEVERTASK SOLUTIONS, S.L.U. &#13;
+CLEVERDATA SOLUTIONS S.L.U. &#13;
+(SOCIEDADES ABSORBIDAS)</titulo>
+          <urlPdf szBytes="140056" szKBytes="137" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3083.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3083</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3083</urlXml>
+        </item>
+        <item id="BORME-C-2024-3084">
+          <titulo>ARHA DEL SAJA, S.L. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+ARHA SERVICIOS AUXILIARES, S.L. &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="134559" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3084.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3084</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3084</urlXml>
+        </item>
+        <item id="BORME-C-2024-3085">
+          <titulo>COHABS LEIS 8, S.L. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+COHABS FELICIANA 12, S.L. &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="132576" szKBytes="129" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3085.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3085</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3085</urlXml>
+        </item>
+        <item id="BORME-C-2024-3086">
+          <titulo>COMERCIAL MÖLLER CANARIAS, SOCIEDAD LIMITADA UNIPERSONAL &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+SELOTAB, SOCIEDAD LIMITADA UNIPERSONAL &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="135602" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3086.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3086</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3086</urlXml>
+        </item>
+        <item id="BORME-C-2024-3087">
+          <titulo>COMERCIAL TXARTEL, S.L. &#13;
+ (SOCIEDAD ABSORBENTE) &#13;
+ &#13;
+SUGORRI, S.L.U. &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="134109" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3087.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3087</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3087</urlXml>
+        </item>
+        <item id="BORME-C-2024-3088">
+          <titulo>CURAPROX SPAIN, S.L.U. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+CURADEN SPAIN, S.L.U. &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="138436" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3088.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3088</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3088</urlXml>
+        </item>
+        <item id="BORME-C-2024-3089">
+          <titulo>EVERIS INITIATIVES, S.L.U. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+EVERIS MOBILE, S.L.U.&#13;
+CETEL INGENIERÍA DE SISTEMAS, S.L.U. &#13;
+(SOCIEDADES ABSORBIDAS)</titulo>
+          <urlPdf szBytes="135289" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3089.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3089</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3089</urlXml>
+        </item>
+        <item id="BORME-C-2024-3090">
+          <titulo>GERMANDAT DE SANT SEBASTIÀ, DE PREVISIÓ SOCIAL, MPS &#13;
+(ENTIDAD ABSORBENTE) &#13;
+MONTEPIO SANT SEBASTIÀ, MUTUALITAT DE PREVISIÓ SOCIAL A PRIMA FIXA &#13;
+(ENTIDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="135602" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3090.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3090</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3090</urlXml>
+        </item>
+        <item id="BORME-C-2024-3091">
+          <titulo>HOTEL VELA, S.L.U. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+BLUE DOLPHIN CHICLANA, S.L.U. &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="134596" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3091.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3091</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3091</urlXml>
+        </item>
+        <item id="BORME-C-2024-3092">
+          <titulo>INTEGRACION Y DISTRIBUCION COSMETICA, S.L.U. &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+ITALORCA, S.L. &#13;
+(SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="133542" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3092.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3092</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3092</urlXml>
+        </item>
+        <item id="BORME-C-2024-3093">
+          <titulo>OLD PIPE, SOCIEDAD LIMITADA &#13;
+(SOCIEDAD ABSORBENTE) &#13;
+GREEN FROG, SOCIEDAD LIMITADA &#13;
+CUATRO TRÉBOLES, SOCIEDAD ANONIMA &#13;
+(SOCIEDADES ABSORBIDAS)</titulo>
+          <urlPdf szBytes="135584" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3093.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3093</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3093</urlXml>
+        </item>
+        <item id="BORME-C-2024-3094">
+          <titulo>RECREATIVOS CENZANO, S.A.U. &#13;
+ (SOCIEDAD ABSORBENTE) &#13;
+ &#13;
+AUTOMÁTICOS LUNA, S.L.U. &#13;
+ (SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="134576" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3094.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3094</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3094</urlXml>
+        </item>
+        <item id="BORME-C-2024-3095">
+          <titulo>RECREATIVOS DEL ESTE, S.L. &#13;
+ (SOCIEDAD ABSORBENTE) &#13;
+ &#13;
+SEGURGAMES, S.L.U. &#13;
+ (SOCIEDAD ABSORBIDA)</titulo>
+          <urlPdf szBytes="133864" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3095.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3095</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3095</urlXml>
+        </item>
+      </emisor>
+      <emisor nombre="ESCISIÓN DE EMPRESAS" etq="004">
+        <item id="BORME-C-2024-3096">
+          <titulo>CLÍNICA OCULAR DR. TIRADO S.L.P.U. (SOCIEDAD ESCINDIDA) &#13;
+ANTICA ACTIVOS, S.L. (SOCIEDAD BENEFICIARIA)</titulo>
+          <urlPdf szBytes="135578" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3096.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3096</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3096</urlXml>
+        </item>
+        <item id="BORME-C-2024-3097">
+          <titulo>GVIPS PORTUGAL, UNIPESSOAL LDA &#13;
+(SOCIEDAD ESCINDIDA) &#13;
+SIGLA, S.A.U. &#13;
+(SOCIEDAD BENEFICIARIA)</titulo>
+          <urlPdf szBytes="134260" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3097.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3097</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3097</urlXml>
+        </item>
+        <item id="BORME-C-2024-3098">
+          <titulo>SOLUCIONES DE EMBALAJE EN PLÁSTICO, S.L.U. &#13;
+(SOCIEDAD ESCINDIDA) &#13;
+LUZ DE TESALI, S.L.U. &#13;
+(SOCIEDAD BENEFICIARIA)</titulo>
+          <urlPdf szBytes="138511" szKBytes="135" numPag="2">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3098.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3098</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3098</urlXml>
+        </item>
+      </emisor>
+      <emisor nombre="CESIÓN DE EMPRESAS" etq="007">
+        <item id="BORME-C-2024-3099">
+          <titulo>SUNSET MARINA PROPERTIES, SOCIEDAD LIMITADA &#13;
+(SOCIEDAD CEDENTE) &#13;
+ARTOLA GOLF HOUSES, SOCIEDAD LIMITADA &#13;
+(SOCIEDAD CESIONARIA)</titulo>
+          <urlPdf szBytes="132894" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3099.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3099</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3099</urlXml>
+        </item>
+      </emisor>
+      <emisor nombre="REDUCCIÓN DE CAPITAL" etq="011">
+        <item id="BORME-C-2024-3100">
+          <titulo>AUTOPISTAS DE NAVARRA, S.A.</titulo>
+          <urlPdf szBytes="134848" szKBytes="132" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3100.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3100</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3100</urlXml>
+        </item>
+        <item id="BORME-C-2024-3101">
+          <titulo>ENVASADOS EVA, S.A.U.</titulo>
+          <urlPdf szBytes="133010" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3101.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3101</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3101</urlXml>
+        </item>
+        <item id="BORME-C-2024-3102">
+          <titulo>RESIDENCIAS NARANJA, S.A.</titulo>
+          <urlPdf szBytes="133324" szKBytes="130" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3102.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3102</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3102</urlXml>
+        </item>
+      </emisor>
+      <emisor nombre="OTROS ANUNCIOS Y AVISOS LEGALES" etq="099">
+        <item id="BORME-C-2024-3103">
+          <titulo>VAGUADA CAPITAL, S.A.</titulo>
+          <urlPdf szBytes="133761" szKBytes="131" numPag="1">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3103.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3103</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3103</urlXml>
+        </item>
+        <item id="BORME-C-2024-3104">
+          <titulo>VISCOFAN, SOCIEDAD ANÓNIMA</titulo>
+          <urlPdf szBytes="159470" szKBytes="156" numPag="5">/borme/dias/2024/05/27/pdfs/BORME-C-2024-3104.pdf</urlPdf>
+          <urlHtm>/diario_borme/txt.php?id=BORME-C-2024-3104</urlHtm>
+          <urlXml>/diario_borme/xml.php?id=BORME-C-2024-3104</urlXml>
+        </item>
+      </emisor>
+    </seccion>
+  </diario>
+</sumario>
